@@ -1,0 +1,187 @@
+{
+  "project_info": {
+    "project_number": "49382410354",
+    "firebase_url": "https://fcmwithflavor.firebaseio.com",
+    "project_id": "fcmwithflavor",
+    "storage_bucket": "fcmwithflavor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49382410354:android:3613821182575b8a",
+        "android_client_info": {
+          "package_name": "cars24.com.fcmwithflavor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49382410354-rth87kmof2bi2degdqhmhrhh6le4tko6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cars24.com.fcmwithflavor",
+            "certificate_hash": "3cd162c61b4317fdb0a4a7444f39f4a2fb1c8c59"
+          }
+        },
+        {
+          "client_id": "49382410354-85hl0steuhsmdu9eiohtaeei8r9rlh8i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX0YB1hSnS8ioYA9uy9YEz6qZX6i0fyB4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49382410354-85hl0steuhsmdu9eiohtaeei8r9rlh8i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49382410354:android:bc5484cbec0c2601",
+        "android_client_info": {
+          "package_name": "cars24.com.fcmwithflavor.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49382410354-6siehf9t2selvn82um3hil7p1ub73ot4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cars24.com.fcmwithflavor.debug",
+            "certificate_hash": "3cd162c61b4317fdb0a4a7444f39f4a2fb1c8c59"
+          }
+        },
+        {
+          "client_id": "49382410354-85hl0steuhsmdu9eiohtaeei8r9rlh8i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX0YB1hSnS8ioYA9uy9YEz6qZX6i0fyB4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49382410354-85hl0steuhsmdu9eiohtaeei8r9rlh8i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49382410354:android:a6cb8d5cb2b8dac2",
+        "android_client_info": {
+          "package_name": "cars24.com.fcmwithflavor.stage.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49382410354-84lln1ktcnc34pqdiffa0s9hbsa5ro38.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cars24.com.fcmwithflavor.stage.debug",
+            "certificate_hash": "3cd162c61b4317fdb0a4a7444f39f4a2fb1c8c59"
+          }
+        },
+        {
+          "client_id": "49382410354-85hl0steuhsmdu9eiohtaeei8r9rlh8i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX0YB1hSnS8ioYA9uy9YEz6qZX6i0fyB4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49382410354-85hl0steuhsmdu9eiohtaeei8r9rlh8i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49382410354:android:3d27a5a8167256aa",
+        "android_client_info": {
+          "package_name": "cars24.com.fcmwithflavor.pro.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49382410354-g1kr2t3ij8hop0fc8u4a0qp0nl5k6fg7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cars24.com.fcmwithflavor.pro.debug",
+            "certificate_hash": "3cd162c61b4317fdb0a4a7444f39f4a2fb1c8c59"
+          }
+        },
+        {
+          "client_id": "49382410354-85hl0steuhsmdu9eiohtaeei8r9rlh8i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX0YB1hSnS8ioYA9uy9YEz6qZX6i0fyB4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49382410354-85hl0steuhsmdu9eiohtaeei8r9rlh8i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
